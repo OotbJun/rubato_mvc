@@ -6,3 +6,9 @@
 
 그 이전, 다음, 번호까지 하고<br>
 번호 짜르는 거 아직 못함ㅠㅠ
+
+<br><br><br>
+
+테이블--<br>
+RBT_Member<br>
+RBT_Board
